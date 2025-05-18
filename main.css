@@ -1,0 +1,27 @@
+.box{
+    background-color: white;
+    
+    min-height: auto;
+    font-size: 2rem;
+    
+    
+}
+a{
+    text-decoration: underline;
+    color: rgb(1, 1, 1);
+    
+}
+#nav-items{
+    background-color: white;
+    
+    /* border-left:4px solid black ; */
+    /* border-right: 4px solid black; */
+    border-top: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid black;
+    width: auto;
+   
+}
+
+.nav-link-item{
+    color:red ;
+}
